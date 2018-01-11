@@ -2,7 +2,7 @@
     "name": "mclibre-org-html-css-extension-pack",
     "displayName": "mclibre.org HTML+CSS Extension Pack",
     "description": "Extensiones aconsejadas para seguir el curso HTML+CSS de mclibre.org",
-    "version": "0.1.5",
+    "version": "0.1.7",
     "publisher": "BartolomeSintes",
     "engines": {
         "vscode": "^1.19.0"
@@ -23,32 +23,5 @@
         "kisstkondoros.vscode-gutter-preview",
         "mkaufman.HTMLHint",
         "mrmlnc.vscode-csscomb"
-    ],
-    "contributes": {
-        "configuration": {
-            "csscomb.preset": {
-                "always-semicolon": true,
-                "color-case": "lower",
-                "block-indent": "  ",
-                "element-case": "lower",
-                "eof-newline": true,
-                "leading-zero": true,
-                "quotes": "double",
-                "space-before-colon": "",
-                "space-after-colon": " ",
-                "space-before-combinator": " ",
-                "space-after-combinator": " ",
-                "space-between-declarations": "\n",
-                "space-before-opening-brace": " ",
-                "space-after-opening-brace": "\n",
-                "space-after-selector-delimiter": " ",
-                "space-before-selector-delimiter": "",
-                "space-before-closing-brace": "\n",
-                "strip-spaces": true,
-                "tab-size": true,
-                "unitless-zero": true,
-                "vendor-prefix-align": true
-            }
-        }
-    }
+    ]
 }
