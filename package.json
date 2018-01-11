@@ -2,7 +2,7 @@
     "name": "mclibre-org-html-css-extension-pack",
     "displayName": "mclibre.org HTML+CSS Extension Pack",
     "description": "Extensiones aconsejadas para seguir el curso HTML+CSS de mclibre.org",
-    "version": "0.1.2",
+    "version": "0.1.5",
     "publisher": "BartolomeSintes",
     "engines": {
         "vscode": "^1.19.0"
@@ -25,8 +25,8 @@
         "mrmlnc.vscode-csscomb"
     ],
     "contributes": {
-        "configurationDefaults": {
-            "[csscomb.preset]": {
+        "configuration": {
+            "csscomb.preset": {
                 "always-semicolon": true,
                 "color-case": "lower",
                 "block-indent": "  ",

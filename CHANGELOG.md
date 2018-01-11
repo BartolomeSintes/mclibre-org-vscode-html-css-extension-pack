@@ -12,3 +12,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.1.2 (2018-01-11)
 - Intento que al instalar la extensión, añada opciones de configuración
 
+## 0.1.5 (2018-01-11)
+- Intento que al instalar la extensión, añada opciones de configuración
