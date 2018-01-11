@@ -1,27 +1,27 @@
 {
-  "name": "mclibre-org-html-css-extension-pack",
-  "displayName": "mclibre.org HTML+CSS Extension Pack",
-  "description": "Extensiones aconsejadas para seguir el curso HTML+CSS de mclibre.org",
-  "version": "0.0.1",
-  "publisher": "BartolomeSintes",
-  "engines": {
-    "vscode": "^1.19.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "icon": "mclibre-html-css-logo.png",
-  "homepage": "https://github.com/BartolomeSintes/mclibre-org-vscode-html-css-extension-pack/blob/master/README.md",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BartolomeSintes/mclibre-org-vscode-html-css-extension-pack"
-  },
-  "extensionDependencies": [
-    "christian-kohler.path-intellisense",
-    "Compulim.compulim-vscode-closetag",
-    "kisstkondoros.vscode-gutter-preview",
-    "mkaufman.HTMLHint",
-    "mrmlnc.vscode-csscomb"
-  ]
+    "name": "mclibre-org-html-css-extension-pack",
+    "displayName": "mclibre.org HTML+CSS Extension Pack",
+    "description": "Extensiones aconsejadas para seguir el curso HTML+CSS de mclibre.org",
+    "version": "0.1.0",
+    "publisher": "BartolomeSintes",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "mclibre-html-css-logo.png",
+    "homepage": "https://github.com/BartolomeSintes/mclibre-org-vscode-html-css-extension-pack/blob/master/README.md",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BartolomeSintes/mclibre-org-vscode-html-css-extension-pack"
+    },
+    "extensionDependencies": [
+        "christian-kohler.path-intellisense",
+        "Compulim.compulim-vscode-closetag",
+        "kisstkondoros.vscode-gutter-preview",
+        "mkaufman.HTMLHint",
+        "mrmlnc.vscode-csscomb"
+    ]
 }
