@@ -4,8 +4,6 @@ Estas son las extensiones recomendadas para seguir el curso **Páginas web HTML 
 
 Incluye las siguientes extensiones:
 
-|              |         |
-|--------------|---------|
 | Image Preview      | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
 | Path Intellisense  | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)  |
 | Close HTML/XML tag | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)   |
