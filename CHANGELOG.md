@@ -20,6 +20,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.1.7 (2018-01-11)
 - Como no consigo que añada opciones de configuración, lo dejo como al principio
 
-## 0.1.8 (2018-10-18)
+## 0.2.0 (2018-10-18)
 - Quito [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - Añado [Tag Inserter](https://marketplace.visualstudio.com/items?itemName=l7ssha.tag-inserter)
