@@ -6,13 +6,14 @@ Incluye las siguientes extensiones:
 
 | Extensión          | Enlace a MarketPlace                                                                                   |
 |--------------------|--------------------------------------------------------------------------------------------------------|
+| Auto Rename Tag    | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)       |
+| Close HTML/XML tag | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)   |
+| CSScomb            | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)               |
+| HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)                   |       |
 | Image Preview      | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
 | Tag Inserter       | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=l7ssha.tag-inserter)                 |
-| Close HTML/XML tag | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)   |
-| HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)                   |
-| CSScomb            | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)               |
 
 Puede consultar la siguiente documentación:
-- [Configuración recomendada para cada una de estas extensiones](http://www.mclibre.org/consultar/informatica/lecciones/vsc-htmlcss-configuracion.html#extensiones)
-- [Configuración recomendada de Visual Studio Code para seguir el curso](http://www.mclibre.org/consultar/informatica/lecciones/vsc-htmlcss-configuracion.html)
+- [Configuración recomendada para cada una de estas extensiones](http://www.mclibre.org//consultar/htmlcss/otros/vsc-htmlcss-configuracion.html#extensiones)
+- [Configuración recomendada de Visual Studio Code para seguir el curso](http://www.mclibre.org//consultar/htmlcss/otros/vsc-htmlcss-configuracion.html)
 - [Cómo se configura Visual Studio Code](http://www.mclibre.org/consultar/informatica/lecciones/vsc-personalizacion.html)

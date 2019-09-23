@@ -23,3 +23,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.2.0 (2018-10-18)
 - Quito [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - Añado [Tag Inserter](https://marketplace.visualstudio.com/items?itemName=l7ssha.tag-inserter)
+
+## 0.3.0 (2019-09-23)
+- Añado [MarketPlace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
