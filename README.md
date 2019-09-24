@@ -9,7 +9,7 @@ Incluye las siguientes extensiones:
 | Auto Rename Tag    | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)       |
 | Close HTML/XML tag | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)   |
 | CSScomb            | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)               |
-| HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)                   |       |
+| HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)                   |
 | Image Preview      | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
 | Tag Inserter       | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=l7ssha.tag-inserter)                 |
 
