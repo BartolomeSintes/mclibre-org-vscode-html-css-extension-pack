@@ -10,6 +10,7 @@ Incluye las siguientes extensiones:
 | CSScomb            | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)               |
 | HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)                   |
 | Image Preview      | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
+| Live Preview       | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)               |
 | Tag Inserter       | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=l7ssha.tag-inserter)                 |
 
 Puede consultar la siguiente documentación:

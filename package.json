@@ -5,7 +5,7 @@
     "version": "0.8.0",
     "publisher": "BartolomeSintes",
     "engines": {
-        "vscode": "^1.40.0"
+        "vscode": "^1.56.0"
     },
     "categories": [
         "Extension Packs"
@@ -22,6 +22,7 @@
         "Compulim.compulim-vscode-closetag",
         "l7ssha.tag-inserter",
         "mkaufman.HTMLHint",
-        "mrmlnc.vscode-csscomb"
+        "mrmlnc.vscode-csscomb",
+        "ms-vscode.live-server"
     ]
 }

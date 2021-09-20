@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "mclibre-org-html-css-extension-pack" extension pack will be documented in this file.
 
+## 0.9.0 (2021-09-20)
+- Añado [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+
 ## 0.8.0 (2020-01-07)
 - Quito [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
