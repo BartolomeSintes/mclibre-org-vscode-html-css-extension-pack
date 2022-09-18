@@ -5,7 +5,7 @@
     "version": "0.9.0",
     "publisher": "BartolomeSintes",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.64.0"
     },
     "categories": [
         "Extension Packs"
@@ -21,8 +21,11 @@
         "kisstkondoros.vscode-gutter-preview",
         "Compulim.compulim-vscode-closetag",
         "l7ssha.tag-inserter",
-        "mkaufman.HTMLHint",
+        "HTMLHint.vscode-htmlhint",
         "mrmlnc.vscode-csscomb",
         "ms-vscode.live-server"
-    ]
+    ],
+    "dependencies": {
+        "vsce": "^2.11.0"
+    }
 }

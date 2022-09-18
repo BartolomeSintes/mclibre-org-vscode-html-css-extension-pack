@@ -8,7 +8,7 @@ Incluye las siguientes extensiones:
 |--------------------|--------------------------------------------------------------------------------------------------------|
 | Close HTML/XML tag | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag)   |
 | CSScomb            | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb)               |
-| HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)                   |
+| HTMLHint           | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)            |
 | Image Preview      | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
 | Live Preview       | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)               |
 | Tag Inserter       | [MarketPlace](https://marketplace.visualstudio.com/items?itemName=l7ssha.tag-inserter)                 |

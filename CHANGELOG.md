@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "mclibre-org-html-css-extension-pack" extension pack will be documented in this file.
 
+## 0.10.0 (2022-09-18)
+- Sustituyo [HTMLHint de Mike Kaufman
+](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) por [HTMLHint oficial](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
+
 ## 0.9.0 (2021-09-20)
 - Añado [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
